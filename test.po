@@ -1,0 +1,278 @@
+msgid ""
+msgstr ""
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "common.badge.organised.name"
+msgstr "Organised"
+
+msgid "common.badge.organised.tag"
+msgstr "organised"
+
+msgid "common.badge.organised.description"
+msgstr "You're always on top of everything and deliver on time. Keep it up!"
+
+msgid "common.badge.energetic.name"
+msgstr "Energetic"
+
+msgid "common.badge.energetic.tag"
+msgstr "energetic"
+
+msgid "common.badge.energetic.description"
+msgstr "You're always on the go and never sitting still...but don't forget to sleep!"
+
+msgid "common.badge.creative.name"
+msgstr "Creative"
+
+msgid "common.badge.creative.tag"
+msgstr "creative"
+
+msgid "common.badge.creative.description"
+msgstr "You just can't stop thinking outside the box! Keep it up!"
+
+msgid "common.badge.welcome.name"
+msgstr "Newbie"
+
+msgid "common.badge.welcome.tag"
+msgstr "welcome"
+
+msgid "common.badge.welcome.description"
+msgstr "Don't be shy, say hello!"
+
+msgid "common.badge.mathematician.name"
+msgstr "Mathematician"
+
+msgid "common.badge.mathematician.tag"
+msgstr "mathematician"
+
+msgid "common.badge.mathematician.description"
+msgstr "e=mc squared? not a problem. Impressive work!"
+
+msgid "common.badge.einstein.name"
+msgstr "Genius"
+
+msgid "common.badge.einstein.tag"
+msgstr "einstein"
+
+msgid "common.badge.einstein.description"
+msgstr "For coming up with that lightbulb moment. You deserve a nobel prize!"
+
+msgid "common.badge.nightowl.name"
+msgstr "Efficient"
+
+msgid "common.badge.nightowl.tag"
+msgstr "nightowl"
+
+msgid "common.badge.nightowl.description"
+msgstr "You're always committed to getting the job done. Good work!"
+
+msgid "common.badge.inspired.name"
+msgstr "Great Ideas"
+
+msgid "common.badge.inspired.tag"
+msgstr "inspired"
+
+msgid "common.badge.inspired.description"
+msgstr "You inspire everyone around you to deliver excellence. Keep inspiring!"
+
+msgid "common.badge.positive.name"
+msgstr "Positive Attitude"
+
+msgid "common.badge.positive.tag"
+msgstr "positive"
+
+msgid "common.badge.positive.description"
+msgstr "You always look on the bright side. Don't let anything get you down!"
+
+msgid "common.badge.helpful.name"
+msgstr "Helpful"
+
+msgid "common.badge.helpful.tag"
+msgstr "helpful"
+
+msgid "common.badge.helpful.description"
+msgstr "You're always there to lend a helping hand. You deserve a thank-you!"
+
+msgid "common.badge.customerfocus.name"
+msgstr "Customer Service"
+
+msgid "common.badge.customerfocus.tag"
+msgstr "customerfocus"
+
+msgid "common.badge.customerfocus.description"
+msgstr "You've got the customer in mind and always deliver excellence!"
+
+msgid "common.badge.superstar.name"
+msgstr "Superstar"
+
+msgid "common.badge.superstar.tag"
+msgstr "superstar"
+
+msgid "common.badge.superstar.description"
+msgstr "You always go that extra mile and produce brilliance. Keep it up!"
+
+msgid "common.badge.leadership.name"
+msgstr "Leadership"
+
+msgid "common.badge.leadership.tag"
+msgstr "leadership"
+
+msgid "common.badge.leadership.description"
+msgstr "You inspire those around you and always get the best out of those you work with. Keep on leading!"
+
+msgid "common.badge.passionate.name"
+msgstr "Passion"
+
+msgid "common.badge.passionate.tag"
+msgstr "passionate"
+
+msgid "common.badge.passionate.description"
+msgstr "You love what you do and it shows. Share the love!"
+
+msgid "common.badge.sociable.name"
+msgstr "Social Butterfly"
+
+msgid "common.badge.sociable.tag"
+msgstr "sociable"
+
+msgid "common.badge.sociable.description"
+msgstr "You know everyone and exactly what's going on. And you're always the first to get involved!"
+
+msgid "common.badge.presentable.name"
+msgstr "Great Presentation"
+
+msgid "common.badge.presentable.tag"
+msgstr "presentable"
+
+msgid "common.badge.presentable.description"
+msgstr "Engaging, interesting and informative. Great presentation!"
+
+msgid "common.badge.teamwork.name"
+msgstr "Teamwork"
+
+msgid "common.badge.teamwork.tag"
+msgstr "teamwork"
+
+msgid "common.badge.teamwork.description"
+msgstr "You work well with everyone and always deliver outstanding results. Great teamwork!"
+
+msgid "common.badge.star.name"
+msgstr "Star"
+
+msgid "common.badge.star.tag"
+msgstr "star"
+
+msgid "common.badge.star.description"
+msgstr "You do whatever it takes to get the job done. Keep it up!"
+
+msgid "common.badge.recognition.name"
+msgstr "Generic"
+
+msgid "common.badge.recognition.tag"
+msgstr "recognition"
+
+msgid "common.badge.recognition.description"
+msgstr "You've done something awesome, keep up the good work!"
+
+msgid "common.badge.innovation.name"
+msgstr "Innovation"
+
+msgid "common.badge.innovation.tag"
+msgstr "innovation"
+
+msgid "common.badge.innovation.description"
+msgstr "Innovation"
+
+# RBCI
+msgid "common.badge.rbci.teamfocused.name"
+msgstr "Team Focused"
+
+msgid "common.badge.rbci.teamfocused.tag"
+msgstr "teamfocused"
+
+msgid "common.badge.rbci.teamfocused.description"
+msgstr "You work well with everyone and always deliver outstanding results. Great teamwork!"
+
+msgid "common.badge.rbci.positive.name"
+msgstr "Positive Attitude"
+
+msgid "common.badge.rbci.positive.tag"
+msgstr "positive"
+
+msgid "common.badge.rbci.positive.description"
+msgstr "You always look on the bright side. Don't let anything get you down!"
+
+msgid "common.badge.rbci.organized.name"
+msgstr "Organized"
+
+msgid "common.badge.rbci.organized.tag"
+msgstr "organized"
+
+msgid "common.badge.rbci.organized.description"
+msgstr "You're always on top of everything and deliver on time. Keep it up!"
+
+msgid "common.badge.rbci.customerfocused.name"
+msgstr "Customer Focused"
+
+msgid "common.badge.rbci.customerfocused.tag"
+msgstr "customerfocused"
+
+msgid "common.badge.rbci.customerfocused.description"
+msgstr "Thrilling customers through phenomenal service! Happy clients = success!"
+
+msgid "common.badge.rbci.leadership.name"
+msgstr "Leadership"
+
+msgid "common.badge.rbci.leadership.tag"
+msgstr "leadership"
+
+msgid "common.badge.rbci.leadership.description"
+msgstr "You earn commitment and inspire greatness through your personal example. Keep on leading!"
+
+msgid "common.badge.rbci.collaboration.name"
+msgstr "Collaboration"
+
+msgid "common.badge.rbci.collaboration.tag"
+msgstr "collaboration"
+
+msgid "common.badge.rbci.collaboration.description"
+msgstr "Alone we achieve less than when we work together! Keep fostering that collaborative spirit!"
+
+msgid "common.badge.rbci.determination.name"
+msgstr "Determination"
+
+msgid "common.badge.rbci.determination.tag"
+msgstr "determination"
+
+msgid "common.badge.rbci.determination.description"
+msgstr "You demonstrate you have what it takes to succeed... keep shooting for greater heights!"
+
+msgid "common.badge.rbci.motivator.name"
+msgstr "Motivator"
+
+msgid "common.badge.rbci.motivator.tag"
+msgstr "motivator"
+
+msgid "common.badge.rbci.motivator.description"
+msgstr "You see opportunity in challenges and inspire others to achieve excellence! Keep motivating!"
+
+msgid "common.badge.rbci.healthybalance.name"
+msgstr "Healthy Balance"
+
+msgid "common.badge.rbci.healthybalance.tag"
+msgstr "healthybalance"
+
+msgid "common.badge.rbci.healthybalance.description"
+msgstr "Congratulations on the healthy balance you achieve in your work and personal life. Never falter!"
+
+msgid "common.badge.rbci.active.name"
+msgstr "Active"
+
+msgid "common.badge.rbci.active.tag"
+msgstr "active"
+
+msgid "common.badge.rbci.active.description"
+msgstr "You're committed to staying active and inspiring others! Keep moving!"
