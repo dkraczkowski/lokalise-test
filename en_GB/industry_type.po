@@ -1,0 +1,113 @@
+msgid ""
+msgstr ""
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "common.industry_type.accountancy_banking_and_finance"
+msgstr "Accountancy, Banking and Finance"
+
+msgid "common.industry_type.accommodation_and_facilities_services"
+msgstr "Accommodation and Facilities Services"
+
+msgid "common.industry_type.architecture_and_planning"
+msgstr "Architecture and Planning"
+
+msgid "common.industry_type.advertising_marketing_and_pr"
+msgstr "Advertising, Marketing and PR"
+
+msgid "common.industry_type.armed_forces"
+msgstr "Armed Forces"
+
+msgid "common.industry_type.apparel_and_fashion"
+msgstr "Apparel and Fashion"
+
+msgid "common.industry_type.applied_sciences"
+msgstr "Applied Sciences"
+
+msgid "common.industry_type.business_consulting_and_management"
+msgstr "Business, Consulting and Management"
+
+msgid "common.industry_type.charities_and_voluntary_work"
+msgstr "Charities and Voluntary work"
+
+msgid "common.industry_type.creative_arts_and_culture"
+msgstr "Creative Arts and Culture"
+
+msgid "common.industry_type.energy_and_utilities"
+msgstr "Energy and Utilities"
+
+msgid "common.industry_type.engineering_and_construction"
+msgstr "Engineering and Construction"
+
+msgid "common.industry_type.environment_and_agriculture"
+msgstr "Environment and Agriculture"
+
+msgid "common.industry_type.graphic_design"
+msgstr "Graphic Design"
+
+msgid "common.industry_type.health_wellness_and_fitness"
+msgstr "Health, Wellness and Fitness"
+
+msgid "common.industry_type.hospital_and_healthcare"
+msgstr "Hospital and Healthcare"
+
+msgid "common.industry_type.information_technology_and_animation"
+msgstr "Information Technology and Animation"
+
+msgid "common.industry_type.interior_design"
+msgstr "Interior Design"
+
+msgid "common.industry_type.law_and_legal_service"
+msgstr "Law and Legal Service"
+
+msgid "common.industry_type.manufacturing"
+msgstr "Manufacturing"
+
+msgid "common.industry_type.media_and_entertainment"
+msgstr "Media and Entertainment"
+
+msgid "common.industry_type.natural_sciences"
+msgstr "Natural Sciences"
+
+msgid "common.industry_type.property"
+msgstr "Property"
+
+msgid "common.industry_type.product_design"
+msgstr "Product Design"
+
+msgid "common.industry_type.publishing"
+msgstr "Publishing"
+
+msgid "common.industry_type.recruitment_and_hr"
+msgstr "Recruitment and HR"
+
+msgid "common.industry_type.retail"
+msgstr "Retail"
+
+msgid "common.industry_type.restaurants_and_bars"
+msgstr "Restaurants and Bars"
+
+msgid "common.industry_type.safety_security_and_emergency_services"
+msgstr "Safety, Security and Emergency Services"
+
+msgid "common.industry_type.social_care"
+msgstr "Social care"
+
+msgid "common.industry_type.sports_and_leisure"
+msgstr "Sports and Leisure"
+
+msgid "common.industry_type.teaching_and_education"
+msgstr "Teaching and Education"
+
+msgid "common.industry_type.travel_and_tourism"
+msgstr "Travel and Tourism"
+
+msgid "common.industry_type.transport_and_logistics"
+msgstr "Transport and Logistics"
+
+msgid "common.industry_type.other"
+msgstr "Other"
+

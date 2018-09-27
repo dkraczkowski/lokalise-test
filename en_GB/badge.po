@@ -12,9 +12,6 @@ msgstr "Organised"
 msgid "common.badge.organised.tag"
 msgstr "organised"
 
-msgid "common.badge.organised211.tag"
-msgstr "organised2"
-
 msgid "common.badge.organised.description"
 msgstr "You're always on top of everything and deliver on time. Keep it up!"
 
